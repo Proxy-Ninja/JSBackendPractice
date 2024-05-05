@@ -1,0 +1,17 @@
+{
+  "name": "testpractice",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "start": "node Practice/test.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "amit",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
